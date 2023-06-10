@@ -26,9 +26,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 
-Screenshots
-![alt text](![img1](https://github.com/AlemuTebkew/react-file-import/assets/47268785/50a21998-204a-40a1-b84e-da26c637de86)
-/img1.png)
+
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
@@ -48,3 +46,10 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+Screenshots
+![alt text](![img1](https://github.com/AlemuTebkew/react-file-import/assets/47268785/50a21998-204a-40a1-b84e-da26c637de86)
+/img1.png)
+![img2](https://github.com/AlemuTebkew/react-file-import/assets/47268785/d7c4d1f4-97a4-491c-930e-58371b3accda)
+![img3](https://github.com/AlemuTebkew/react-file-import/assets/47268785/f726f20f-e613-46bd-939e-c85992a96dca)
+![img4](https://github.com/AlemuTebkew/react-file-import/assets/47268785/fef937b5-e880-4e71-b017-64a70c730619)
