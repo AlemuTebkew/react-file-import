@@ -53,3 +53,4 @@ Screenshots
 ![img2](https://github.com/AlemuTebkew/react-file-import/assets/47268785/d7c4d1f4-97a4-491c-930e-58371b3accda)
 ![img3](https://github.com/AlemuTebkew/react-file-import/assets/47268785/f726f20f-e613-46bd-939e-c85992a96dca)
 ![img4](https://github.com/AlemuTebkew/react-file-import/assets/47268785/fef937b5-e880-4e71-b017-64a70c730619)
+![img5](https://github.com/AlemuTebkew/react-file-import/assets/47268785/3ebf5a2e-4bcf-4d8f-8701-d8c8c781ede6)
